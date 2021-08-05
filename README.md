@@ -1,6 +1,6 @@
 # Passo-a-Passo-start-maven-e-gradle
 
-##Maven
+## Maven
 Apos gerar o projeto abrir o intelligey clicar no projeto e clicar em exemplo/Lifecycle/install, apos finalizar sera gerado o arquivo jar. Apos buildar clicar em Plugins /springBoot/spring-boot:run
 
 
